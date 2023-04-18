@@ -1,4 +1,4 @@
-# week4-mini-capstone
+# Tech Elevator Vending Machine Capstone
 
 
 
